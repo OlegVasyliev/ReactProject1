@@ -1,8 +1,8 @@
 ## Додаток публікує пости, дозволяє керувати їх (Аналог twitter)
 
-Практика бібліотеки React
+React library
 
 React-bootstrap
 
-CSS in JS  Бібліотека: styled-components
+CSS in JS  styled-components library
 
